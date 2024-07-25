@@ -36,25 +36,26 @@ The data is of 303 Emloyees Working in a Software Company and as a Data Aalyst I
 
 On the basis of this available data I was asked following questions by Stake Holders
 
- #Questions
-How many Employees Worked with Company ?
-Number of Active and Terminated Employees.
-Categorizing Employees on the basis of their Performance score.
-Which are the Top 5 Recruitment Sources for Company ?
-Average salary offered in each Department.
-Percentage of Male and Female Employees working (Active/Terminated).
-Number of Employees Hired and Terminated per Year.
-Top 5 Positions on which employees are working
-What is Average Satisfaction score for Active and Terminated Members ?
-Number of Employees with who are US Citizens.
-Categorization of Employees on the basis of their Performance Score.
-Average number of Absentees (For Active and Terminated Employees).
-Number of Employees Working in Different Departments.
-Employee Categorization on the basis of their Marital Description.
-Percentage of Total Employees Working on Different Positions.
-Number of Employees who are earning below average salary.
-Details of Employees who is offered with Maximum Salary.
-Details of Employees who is offered with Minimum Salary.
-Name of top Three Managers who are having maximum Employees under their watch and their departmets.
-Which position is offered with maximum salary.
+ ## Questions
+1. How many Employees Worked with Company ?
+2. Number of Active and Terminated Employees. 
+3. Categorizing Employees on the basis of their Performance score.
+4. Which are the Top 5 Recruitment Sources for Company ?
+5. Average salary offered in each Department.
+6. Percentage of Male and Female Employees working (Active/Terminated).
+7. Number of Employees Hired and Terminated per Year.
+8. Top 5 Positions on which employees are working
+9. What is Average Satisfaction score for Active and Terminated Members ?
+10. Number of Employees with who are US Citizens.
+11. Categorization of Employees on the basis of their Performance Score.
+12. Average number of Absentees (For Active and Terminated Employees).
+13. Number of Employees Working in Different Departments.
+14. Employee Categorization on the basis of their Marital Description.
+15. Percentage of Total Employees Working on Different Positions.
+16. Number of Employees who are earning below average salary.
+17. Details of Employees who is offered with Maximum Salary.
+18. Details of Employees who is offered with Minimum Salary.
+19. Name of top Three Managers who are having maximum Employees under their watch and their departmets.
+20. Which position is offered with maximum salary.
+
 I Have answered majority of above question using the SQL Script where as I have also developed a Interactive Dashboard Using Power BI for this Data
