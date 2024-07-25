@@ -1,37 +1,37 @@
 # power-bi
 The data is of 303 Emloyees Working in a Software Company and as a Data Aalyst I am supposed to analyze this data thoroughly and give to give answers to few important questions.
-Given Dataset Consists of following 304 Rows and 30 Columns, Columns are as given below
 
-Employee_Name
-EmpID
-MarriedID
-Salary
-Termd
-PositionID
-Position
-State
-Zip
-DOB
-Sex
-MaritalDesc
-CitizenDesc
-HispanicLatino
-RaceDesc
-DateofHire
-DateofTermination
-TermReason
-EmploymentStatus
-Department
-ManagerName
-ManagerID
-RecruitmentSource
-PerformanceScore
-EngagementSurvey
-EmpSatisfaction
-SpecialProjectsCount
-LastPerformanceReview_Date
-DaysLateLast30
-Absences
+*Given Dataset Consists of following 304 Rows and 30 Columns, Columns are as given below*
+1. Employee_Name	
+2. EmpID	
+3. MarriedID	
+4. Salary	
+5. Termd	
+6. PositionID	
+7. Position	
+8. State	
+9. Zip	
+10. DOB	
+11. Sex
+12. MaritalDesc	
+13. CitizenDesc	
+14. HispanicLatino	
+15. RaceDesc	
+16. DateofHire	
+17. DateofTermination	
+18. TermReason	
+19. EmploymentStatus	
+20. Department	
+21. ManagerName	
+22. ManagerID	
+23. RecruitmentSource	
+24. PerformanceScore	
+25. EngagementSurvey	
+26. EmpSatisfaction	
+27. SpecialProjectsCount	
+28. LastPerformanceReview_Date	
+29. DaysLateLast30	
+30. Absences
 
 
 On the basis of this available data I was asked following questions by Stake Holders
