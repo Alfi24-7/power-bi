@@ -1,4 +1,5 @@
 # power-bi
+The data is of 303 Emloyees Working in a Software Company and as a Data Aalyst I am supposed to analyze this data thoroughly and give to give answers to few important questions.
 Given Dataset Consists of following 304 Rows and 30 Columns, Columns are as given below
 
 Employee_Name
